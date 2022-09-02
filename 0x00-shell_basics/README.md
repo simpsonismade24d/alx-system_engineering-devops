@@ -1,1 +1,1 @@
-Create a script that creates a directory name
+Move the file betty from /tmp/ to /tmp/my_first_directory
