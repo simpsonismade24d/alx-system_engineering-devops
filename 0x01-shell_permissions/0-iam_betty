@@ -1,1 +1,3 @@
-echo -e #!/bin/bash \nsu betty
+#!/bin/bash 
+nsu betty
+()
