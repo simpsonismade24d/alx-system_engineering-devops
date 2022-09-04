@@ -1,1 +1,1 @@
-a script that changes the owner of the file hello to the user
+Write a script that creates an empty file
