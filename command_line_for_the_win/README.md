@@ -15,3 +15,5 @@ Push this screenshot with the right name to GitHub, in either the PNG or JPEG fo
 
 
 ![0-first_9_tasks png](https://user-images.githubusercontent.com/111156398/214149748-544efac3-aa65-4db6-976b-fe6b7a67c24c.png)
+
+![1-next_9_tasks jpg](https://user-images.githubusercontent.com/111156398/214150255-e1c6256b-88de-4532-b410-43dd43831361.jpg)
