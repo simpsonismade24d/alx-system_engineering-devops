@@ -12,3 +12,6 @@ Create a screenshot, showing that you completed the required levels
 Push this screenshot with the right name to GitHub, in either the PNG or JPEG format
 
 ![0-first_9_tasks jpg](https://user-images.githubusercontent.com/111156398/214143219-ecc85335-1bed-4a8b-9ee2-cf8fecbcca5a.jpg)
+
+
+![0-first_9_tasks png](https://user-images.githubusercontent.com/111156398/214149748-544efac3-aa65-4db6-976b-fe6b7a67c24c.png)
