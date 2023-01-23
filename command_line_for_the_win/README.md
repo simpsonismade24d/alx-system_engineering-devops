@@ -10,3 +10,16 @@ This project will be manually reviewed.
 As each task is completed, the name of that task will turn green
 Create a screenshot, showing that you completed the required levels
 Push this screenshot with the right name to GitHub, in either the PNG or JPEG format
+
+![0-first_9_tasks jpg](https://user-images.githubusercontent.com/111156398/214143219-ecc85335-1bed-4a8b-9ee2-cf8fecbcca5a.jpg)
+
+
+![0-first_9_tasks png](https://user-images.githubusercontent.com/111156398/214149748-544efac3-aa65-4db6-976b-fe6b7a67c24c.png)
+
+![1-next_9_tasks jpg](https://user-images.githubusercontent.com/111156398/214150255-e1c6256b-88de-4532-b410-43dd43831361.jpg)
+
+![1-next_9_tasks png](https://user-images.githubusercontent.com/111156398/214150825-16a97526-10bb-4d01-8946-950dc8716fec.png)
+
+![2-next_9_tasks jpg](https://user-images.githubusercontent.com/111156398/214151187-5b547bef-6816-4493-85b5-162da4bb3769.jpg)
+
+![2-next_9_tasks png](https://user-images.githubusercontent.com/111156398/214151533-d705dd8f-81cc-4757-babe-068e705f49be.png)
