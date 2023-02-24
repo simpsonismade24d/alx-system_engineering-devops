@@ -21,6 +21,7 @@ Tasks To Complete
 0-simple_web_stack contains the URL of an image containing the design of a one server web infrastructure that hosts the website that is reachable via www.foobar.com. Start your explanation by having a user wanting to access your website.
 
 Components to be used in the design:
+
 ✔ 1 server.
 
 ✔ 1 web server (Nginx).
@@ -34,11 +35,13 @@ Components to be used in the design:
 ✔ 1 domain name foobar.com configured with a www record that points to the server IP 8.8.8.8..
 
 1. Distributed web infrastructure
+
 On a whiteboard, design a three server web infrastructure that hosts the website www.foobar.com.
 
 Requirements:
 
 You must add:
+
 ✔ 2 servers
 
 ✔ 1 web server (Nginx)
