@@ -21,7 +21,7 @@ key metrics about the servers' operations to the administrators. It automaticall
 of the servers, measures response time, and alerts for errors such as corrupt/missing files, 
 security vulnerabilities/violations, and many other issues.
 
-ISSUES WITH THIS INSFRASTRUCTURE
+ISSUES WITH THIS INSFRASTRUCTURE.
 Terminating SSL at the load balancer level would leave the traffic between the load balancer and the
 web servers unencrypted.
 Having one MySQL server is an issue because it is not scalable and can act as a single point of failure
