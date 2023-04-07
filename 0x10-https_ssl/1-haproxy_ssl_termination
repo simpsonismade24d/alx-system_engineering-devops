@@ -33,18 +33,18 @@ defaults
 	errorfile 503 /etc/haproxy/errors/503.http
 	errorfile 504 /etc/haproxy/errors/504.http
 
-frontend http.mubareksd.tech
-	bind *:80
-	mode http
+frontend  ehoneah-frontend-http
+        bind *:80
+        mode http
 	http-request set-header X-Forwarded-Proto http
-	default_backend webservers
+        default_backend ehoneah-backend
 
-frontend https.mubareksd.tech
-	bind *:443 ssl crt /etc/letsencrypt/live/mubareksd.tech/fullchain.pem
+frontend ehoneah-frontend-https
+	bind *:443 ssl crt /etc/haproxy/certs/www.ehoneah.tech.pem
 	http-request set-header X-Forwarded-Proto https
-	default_backend webservers
+	default_backend ehoneah-backend
 
-backend webservers
-	balance roundrobin
-	server 51402-web-01 100.25.183.113:80 check
-	server 51402-web-02 18.208.119.182:80 check
+backend ehoneah-backend
+        balance roundrobin
+        server 63210-web-01 100.25.19.204:80 check
+        server 63210-web-02 54.157.159.85:80 check
