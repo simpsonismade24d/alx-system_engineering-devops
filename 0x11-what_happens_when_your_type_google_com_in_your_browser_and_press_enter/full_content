@@ -1,4 +1,5 @@
 What happens when you type https://www.google.com in your browser and press Enter?
+
 When you type "https://www.google.com" in your browser and press Enter, a complex chain of
 events takes place behind the scenes to deliver the website to your device. In this blog post
 ,I will explore the various stages involved in this process, including DNS request, TCP/IP, 
