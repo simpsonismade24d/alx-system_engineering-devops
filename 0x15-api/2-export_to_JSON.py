@@ -1,4 +1,4 @@
-#!/usr/bin/python3i
+#!/usr/bin/python3
 """This program will export data in the JSON format"""
 
 if __name__ == "__main__":
