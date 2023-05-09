@@ -44,3 +44,8 @@ Preventive Measures:
 • The company may consider implementing a bug bounty program or other incentives to encourage users to report issues promptly.
 • The development team would need to review their development and testing processes to identify areas for improvement and ensure that similar issues do not arise again in the future. 
 
+
+
+![postmortem](https://github.com/simpsonismade24d/alx-system_engineering-devops/assets/111156398/e98839ba-392b-4dc9-8f55-40e56ac6b9cf)
+
+
