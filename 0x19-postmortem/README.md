@@ -42,5 +42,5 @@ Preventive Measures:
 • Henceforth, it was established that the company would need to establish a process for catching and addressing issues that arise after release.
 • The development team would need to conduct more rigorous testing before releasing updates or new versions of the software.
 • The company may consider implementing a bug bounty program or other incentives to encourage users to report issues promptly.
-• The development team would need to review their development and testing processes to identify areas for improvement and ensure that similar issues do not arise in 
+• The development team would need to review their development and testing processes to identify areas for improvement and ensure that similar issues do not arise again in the future. 
 
