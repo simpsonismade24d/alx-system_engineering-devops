@@ -1,6 +1,7 @@
 0x16. API advanced
 
 General
+
 How to read API documentation to find
  the endpoints you’re looking for
 How to use an API with pagination
@@ -28,5 +29,6 @@ All your modules should have a documentation (python3 -c
 You must use the Requests module for sending HTTP requests
  to the Reddit API
 
-created 9th may, 2023 :
+created 9th may, 2023.
  Simpson Iseoluw Iluyomade(simpsonismade@gmail.com)
+ Foundation continuation.
